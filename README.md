@@ -13,6 +13,7 @@ webpack配置
    - mini-css-extract-plugin css分离
    - open-browser-webpack-plugin 自动开启浏览器
  - dev-server 开启服务，绑定端口，设置热替换
+
 启动命令：
  - npm run build 打包项目
  - npm start 开发中启动项目
